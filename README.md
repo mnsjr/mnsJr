@@ -1,7 +1,7 @@
 ## Olá Mundo! Eu sou o Moacir Jr
 
 - 🔭 Eu sou Fotografo, migrando para o setor de tecnologia
-- 🌱 Estou cursando ciências da computação
+- 🌱 Cursando ciências da computação
 - 👯 Trabalho muito bem em grupo e sou próativo
 -->
 
