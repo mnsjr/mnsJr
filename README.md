@@ -1,6 +1,7 @@
 ## Olá Mundo! Eu sou o Moacir Jr
 
 - 🔭 Eu sou Fotografo, migrando para o setor de tecnologia
+- 👪 Casado, pai de 2 garotos (10 e 19anos)
 - 🌱 Cursando ciências da computação
 - 👯 Trabalho muito bem em grupo e sou próativo
 -->
@@ -28,3 +29,7 @@
   ![Snake animation](https://github.com/mnsjr/mnsjr/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+ <!-- Link útil, emoj -->
+ <!-- https://gist.github.com/rxaviers/7360908 -->
+  
