@@ -33,4 +33,5 @@
 
  <!-- Link útil, emoj -->
  <!-- https://gist.github.com/rxaviers/7360908 -->
+ <!-- https://devicon.dev/ -->
   
