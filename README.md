@@ -1,9 +1,14 @@
 ## Olá Mundo! Eu sou o Moacir Jr
 
-- 🔭 Eu sou Fotografo, migrando para o setor de tecnologia
-- 👪 Casado, pai de 2 garotos (10 e 19anos)
-- 🌱 Cursando ciências da computação
-- 👯 Trabalho muito bem em grupo e sou próativo
+- 😏 sou um homem pardo e tenho 38 anos
+- 👪 casado, pai de 2 garotos (10 e 19anos)
+- 🎮 gosto de música, arte e games
+- ☀️ gosto de ver o sol nascer, da vista do mar e contemplar a natureza
+- 📷 sou fotografo e 🎥 produtor áudio visual, migrando para o setor de tecnologia 💻
+- 🎓 graduando em ciências da computação
+- 👯 trabalho muito bem em grupo, sou proativo e perfeccionista 
+- 🌱 sou engajado em frentes de proteção ao meio ambiente
+- 📣 entusiasta de assuntos como tecnologia, sustentabilidade, disseminação de conhecimento
 -->
 
 <div align="center">
@@ -33,5 +38,6 @@
 
  <!-- Link útil, emoj -->
  <!-- https://gist.github.com/rxaviers/7360908 -->
+ <!-- https://github.com/snoke/myWebsocketApp/blob/master/assets/components/App/Chats/Chat/emojis.json -->
  <!-- https://devicon.dev/ -->
   
