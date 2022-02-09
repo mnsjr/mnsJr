@@ -40,15 +40,15 @@ const stebs = {
 -->
  
   <a padding= 20%>
-    - 😏 sou um homem, pardo e tenho 38 anos
-    - 👪 casado, pai de 2 garotos (10 e 19anos) e 2 gatos
-    - 🎮 gosto de música, arte e games
-    - ☀️ gosto de ver o sol nascer, da vista do mar e contemplar a natureza
-    - 📷 sou fotografo e 🎥 produtor áudio visual, migrando para o setor de tecnologia 💻
-    - 🎓 graduando em ciências da computação
-    - 🏢 trabalho bem em grupo, sou proativo, organizado, criativo, comunicativo e comprometido
-    - 🌱 sou engajado em frentes de proteção ao meio ambiente 🌎
-    - 📣 entusiasta de assuntos como tecnologia, sustentabilidade, disseminação de conhecimento
+    - 😏 sou um homem, pardo e tenho 38 anos<br>
+    - 👪 casado, pai de 2 garotos (10 e 19anos) e 2 gatos<br>
+    - 🎮 gosto de música, arte e games<br>
+    - ☀️ gosto de ver o sol nascer, da vista do mar e contemplar a natureza<br>
+    - 📷 sou fotografo e 🎥 produtor áudio visual, migrando para o setor de tecnologia 💻<br>
+    - 🎓 graduando em ciências da computação<br>
+    - 🏢 trabalho bem em grupo, sou proativo, organizado, criativo, comunicativo e comprometido<br>
+    - 🌱 sou engajado em frentes de proteção ao meio ambiente 🌎<br>
+    - 📣 entusiasta de assuntos como tecnologia, sustentabilidade, disseminação de conhecimento<br>
   </a>
   
   </div>
