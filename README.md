@@ -39,7 +39,7 @@ const stebs = {
 ```
 -->
  
-  <a margin left= 20px>
+  <a padding= 20%>
     - 😏 sou um homem, pardo e tenho 38 anos
     - 👪 casado, pai de 2 garotos (10 e 19anos) e 2 gatos
     - 🎮 gosto de música, arte e games
