@@ -15,8 +15,9 @@
   <a href="https://github.com/mnsjr">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mnsjr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnsjr&layout=compact&langs_count=7&theme=dark"/>
-</div align="center">
-  <div style="display: inline_block"><br>
+</div>
+  
+<div  align="center" style="display: inline_block"><br>
   <img align="center" alt="mnsJr-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="mnsJr-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <img align="center" alt="mnsJr-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
