@@ -7,7 +7,7 @@ I'm a photographer @ [Iluminar Fotografia e Filmes](https://www.iluminarfotograf
 
 <details>
   <summary> More about me</summary>
-<div align="left">
+<div>
  
 <!--  
 ``` js
@@ -39,7 +39,7 @@ const stebs = {
 ```
 -->
  
-  <a padding= 40%>
+  <a align="left">
     - 😏 sou um homem, pardo e tenho 38 anos<br>
     - 👪 casado, pai de 2 garotos (10 e 19anos) e 2 gatos<br>
     - 🎮 gosto de música, arte e games<br>
