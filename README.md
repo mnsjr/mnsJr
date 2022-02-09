@@ -6,6 +6,45 @@
 I'm a photographer @ [Iluminar Fotografia e Filmes](https://www.iluminarfotografia.com.br/).
 </div>
 
+
+
+<details>
+  <summary> More about me</summary>
+<div align="left">
+ 
+``` js
+const stebs = {
+    personal: {
+        fullName: 'Stephany Nusch',
+        birthDate: '1995-05-20',
+        pronouns: 'she' | 'her',
+        interests: ['music', 'games', 'language learning', 'anime'],
+        motivation: [
+            'Help improving diversity and inclusion',
+            'Making life easier and smarter through tech',
+        ],
+    },
+    technical: {
+        technologies: {
+            frontEnd: {
+                Javascript: ['Vanilla JS', 'React', 'Redux', 'Jest'],
+                HTML: ['HTML5', 'Semantic HTML'],
+                CSS: ['sass', 'styled-components', 'Bootstrap'],
+            },
+            backEnd: {
+                Javascript: ['Node.js', 'Express']
+            },
+            architecture: ['Single Page Applications', 'Domain Driven Design', 'Feature First'],
+        },
+    }
+}
+```
+  </div>
+</details>
+
+
+
+
 - 😏 sou um homem, pardo e tenho 38 anos
 - 👪 casado, pai de 2 garotos (10 e 19anos) e 2 gatos
 - 🎮 gosto de música, arte e games
