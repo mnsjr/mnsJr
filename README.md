@@ -5,7 +5,7 @@
 <img src="https://github.com/mnsjr/mnsJr/"/>
 
 I'm a photographer @ [Iluminar Fotografia e Filmes](https://www.iluminarfotografia.com.br/).
-<a>I'm a photographer @ <href="https://www.iluminarfotografia.com.br/" target="_blank">Iluminar Fotografia e Filmes</a>
+<a href="https://www.iluminarfotografia.com.br/" target="_blank">I'm a photographer @ Iluminar Fotografia e Filmes</a>
 
 - 😏 sou um homem, pardo e tenho 38 anos
 - 👪 casado, pai de 2 garotos (10 e 19anos) e 2 gatos
