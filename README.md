@@ -1,10 +1,7 @@
 ## Hello, World!
 
-<div align="center">
-  
-<img height="100" width="150" src="https://github.com/mnsjr/mnsJr/blob/main/gif/Hello.gif"/>
-
-I'm a photographer @ [Iluminar Fotografia e Filmes](https://www.iluminarfotografia.com.br/).
+<div align="center"> 
+<img height="300" width="300" src="https://github.com/mnsjr/mnsJr/blob/main/gif/Hello.gif"/> I'm a photographer @ [Iluminar Fotografia e Filmes](https://www.iluminarfotografia.com.br/).
 </div>
 
 - 😏 sou um homem, pardo e tenho 38 anos
