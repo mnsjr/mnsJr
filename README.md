@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="https://github.com/mnsjr/mnsJr/blob/main/gif/connect.gif?resize=30%2C200"/>
+<img src="https://github.com/mnsjr/mnsJr/blob/main/gif/loading (1).gif"/>
 
 I'm a photographer @ [Iluminar Fotografia e Filmes](https://www.iluminarfotografia.com.br/).
 </div>
