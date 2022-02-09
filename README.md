@@ -1,10 +1,7 @@
-## Hello, World!
-
 <div align="center"> 
 <img height="50%" width="50%" src="https://github.com/mnsjr/mnsJr/blob/main/gif/Hello.gif"/> 
 
 I'm a photographer @ [Iluminar Fotografia e Filmes](https://www.iluminarfotografia.com.br/).
-
 
 
 
@@ -42,16 +39,17 @@ const stebs = {
 ```
 -->
  
-
-  - 😏 sou um homem, pardo e tenho 38 anos
-- 👪 casado, pai de 2 garotos (10 e 19anos) e 2 gatos
-- 🎮 gosto de música, arte e games
-- ☀️ gosto de ver o sol nascer, da vista do mar e contemplar a natureza
-- 📷 sou fotografo e 🎥 produtor áudio visual, migrando para o setor de tecnologia 💻
-- 🎓 graduando em ciências da computação
-- 🏢 trabalho bem em grupo, sou proativo, organizado, criativo, comunicativo e comprometido
-- 🌱 sou engajado em frentes de proteção ao meio ambiente 🌎
-- 📣 entusiasta de assuntos como tecnologia, sustentabilidade, disseminação de conhecimento 
+  <a margin left= 20px>
+    - 😏 sou um homem, pardo e tenho 38 anos
+    - 👪 casado, pai de 2 garotos (10 e 19anos) e 2 gatos
+    - 🎮 gosto de música, arte e games
+    - ☀️ gosto de ver o sol nascer, da vista do mar e contemplar a natureza
+    - 📷 sou fotografo e 🎥 produtor áudio visual, migrando para o setor de tecnologia 💻
+    - 🎓 graduando em ciências da computação
+    - 🏢 trabalho bem em grupo, sou proativo, organizado, criativo, comunicativo e comprometido
+    - 🌱 sou engajado em frentes de proteção ao meio ambiente 🌎
+    - 📣 entusiasta de assuntos como tecnologia, sustentabilidade, disseminação de conhecimento
+  </a>
   
   </div>
 </details>
