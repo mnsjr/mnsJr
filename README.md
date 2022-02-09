@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="https://github.com/mnsjr/mnsJr/blob/main/gif/RegularSimplisticDodo-size_restricted.gif"/>
+<img src="https://github.com/mnsjr/mnsJr/blob/main/gif/RegularSimplisticDodo-size_restricted.gif" resize=30%/>
 
 I'm a photographer @ [Iluminar Fotografia e Filmes](https://www.iluminarfotografia.com.br/).
 </div>
