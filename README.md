@@ -4,7 +4,7 @@
 <img height="50%" width="50%" src="https://github.com/mnsjr/mnsJr/blob/main/gif/Hello.gif"/> 
 
 I'm a photographer @ [Iluminar Fotografia e Filmes](https://www.iluminarfotografia.com.br/).
-</div>
+
 
 
 
@@ -12,13 +12,14 @@ I'm a photographer @ [Iluminar Fotografia e Filmes](https://www.iluminarfotograf
   <summary> More about me</summary>
 <div align="left">
  
+<!--  
 ``` js
 const stebs = {
     personal: {
-        fullName: 'Stephany Nusch',
-        birthDate: '1995-05-20',
-        pronouns: 'she' | 'her',
-        interests: ['music', 'games', 'language learning', 'anime'],
+        fullName: 'Moacir Nunes dos Santos Junior',
+        birthDate: '1984-03-03',
+        pronouns: 'he' | 'his',
+        interests: ['music', 'art', 'games', 'language learning', 'anime'],
         motivation: [
             'Help improving diversity and inclusion',
             'Making life easier and smarter through tech',
@@ -39,13 +40,10 @@ const stebs = {
     }
 }
 ```
-  </div>
-</details>
+-->
+ 
 
-
-
-
-- 😏 sou um homem, pardo e tenho 38 anos
+  - 😏 sou um homem, pardo e tenho 38 anos
 - 👪 casado, pai de 2 garotos (10 e 19anos) e 2 gatos
 - 🎮 gosto de música, arte e games
 - ☀️ gosto de ver o sol nascer, da vista do mar e contemplar a natureza
@@ -53,8 +51,13 @@ const stebs = {
 - 🎓 graduando em ciências da computação
 - 🏢 trabalho bem em grupo, sou proativo, organizado, criativo, comunicativo e comprometido
 - 🌱 sou engajado em frentes de proteção ao meio ambiente 🌎
-- 📣 entusiasta de assuntos como tecnologia, sustentabilidade, disseminação de conhecimento
--->
+- 📣 entusiasta de assuntos como tecnologia, sustentabilidade, disseminação de conhecimento 
+  
+  </div>
+</details>
+
+
+
 
 <div align="center">
   <a href="https://github.com/mnsjr">
