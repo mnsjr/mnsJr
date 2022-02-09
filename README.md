@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="https://github.com/mnsjr/mnsJr/" />
+<img src="https://github.com/mnsjr/mnsJr/" target="_blank"/>
 
 I'm a photographer @ [Iluminar Fotografia e Filmes](https://www.iluminarfotografia.com.br/).
 
