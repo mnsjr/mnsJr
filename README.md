@@ -63,6 +63,12 @@ const stebs = {
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnsjr&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+  ##
+  
+  <div align="center">
+  ### Main Techs
+  </div>
+  
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="mnsJr-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="mnsJr-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
