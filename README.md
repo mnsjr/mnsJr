@@ -66,7 +66,7 @@ const stebs = {
   ##
   
   <div align="center">
-  ### Main Techs
+    Main Techs
   </div>
   
 <div align="center" style="display: inline_block"><br>
