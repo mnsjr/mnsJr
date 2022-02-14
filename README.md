@@ -76,6 +76,7 @@ const stebs = {
   <img align="center" alt="mnsJr-Premiere Pro" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
   <img align="center" alt="mnsJr-Illustrator" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 
+<img align="center" alt="mnsJr-Photoshop" height="40" width="50" src="https://www.flaticon.com/br/icone-gratis/photoshop_5968520?term=adobe&page=1&position=3&page=1&position=3&related_id=5968520&origin=tag" />
 
 
 </div>
