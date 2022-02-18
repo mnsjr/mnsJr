@@ -72,9 +72,8 @@ const stebs = {
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="mnsJr-Python" height=40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="mnsJr-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="mnsJr-Photoshop" height="40" width="40" src="https://github.com/mnsjr/mnsJr/blob/main/icons/photoshop.png" />
-  <img align="center" alt="mnsJr-Premiere Pro" height="40" width="40" src="https://github.com/mnsjr/mnsJr/blob/main/icons/premierepro.png" />
-  <img align="center" alt="mnsJr-Illustrator" height="40" width="40" src="https://github.com/mnsjr/mnsJr/blob/main/icons/illustrador.png" />
+  <img align="center" alt="mnsJr-Photoshop" height="30" width="30" src="https://github.com/mnsjr/mnsJr/blob/main/icons/photoshop.png" />
+  <img align="center" alt="mnsJr-Premiere Pro" height="30" width="30" src="https://github.com/mnsjr/mnsJr/blob/main/icons/premierepro.png" />
 </div>
   
   ##
@@ -89,6 +88,8 @@ const stebs = {
   <img align="center" alt="mnsJr-Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img align="center" alt="mnsJr-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mnsJr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="mnsJr-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="mnsJr-Illustrator" height="30" width="30" src="https://github.com/mnsjr/mnsJr/blob/main/icons/illustrador.png" />
   <img align="center" alt="mnsJr-Ecxel" height="30" width="30" src="https://github.com/mnsjr/mnsJr/blob/main/icons/excel.png">
   <img align="center" alt="mnsJr-PowerBI" height="30" width="30" src="https://github.com/mnsjr/mnsJr/blob/main/icons/PowerBI.png">
 </div>
