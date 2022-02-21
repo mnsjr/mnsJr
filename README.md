@@ -1,8 +1,6 @@
 <div align="center"> 
-<img height="50%" width="50%" src="https://github.com/mnsjr/mnsJr/blob/main/gif/a.png"/>
   
-<a href="https://lovepik.com/image-611365983/vector-25d-stereo-technology-data-age-illustrator.html" target="_blank"><img height="50%" width="50%" src="https://github.com/mnsjr/mnsJr/blob/main/gif/a.png" target="_blank"></a>
-
+<a alt="https://lovepik.com/image-611365983/vector-25d-stereo-technology-data-age-illustrator.html" target="_blank"><img height="50%" width="50%" src="https://github.com/mnsjr/mnsJr/blob/main/gif/a.png" target="_blank"></a>
 
 Sou fotografo e produtor áudio visual @ [Iluminar Fotografia e Filmes](https://www.iluminarfotografia.com.br/).
 
