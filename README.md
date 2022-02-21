@@ -1,6 +1,6 @@
 <div align="center"> 
-<img height="50%" width="50%" src="https://github.com/mnsjr/mnsJr/blob/main/gif/Hello.gif"/>
-<img height="50%" width="50%" src="https://lovepik.com/images/png-25d-stereo.html"/>
+<img height="50%" width="50%" src="https://github.com/mnsjr/mnsJr/blob/main/gif/a.png"/>
+
 
 Sou fotografo e produtor áudio visual @ [Iluminar Fotografia e Filmes](https://www.iluminarfotografia.com.br/).
 
