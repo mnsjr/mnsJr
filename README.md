@@ -48,8 +48,7 @@ const stebs = {
     - 📷 sou fotografo e 🎥 produtor áudio visual, migrando para o setor de tecnologia 💻<br>
     - 🎓 graduando em ciências da computação<br>
     - 🏢 trabalho bem em grupo, sou proativo, organizado, criativo, comunicativo e comprometido<br>
-    - 🌱 sou engajado em frentes de proteção ao meio ambiente 🌎<br>
-    - 📣 entusiasta de assuntos como tecnologia, sustentabilidade, disseminação de conhecimento<br>
+    - 📣 entusiasta de assuntos como tecnologia, proteção ao 🌱 meio ambiente, sustentabilidade, disseminação de conhecimento<br>
   </a>
   
   </div>
