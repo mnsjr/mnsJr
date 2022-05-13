@@ -5,55 +5,40 @@
 Sou fotografo e produtor áudio visual @ [Iluminar Fotografia e Filmes](https://www.iluminarfotografia.com.br/).
 
 
-
-<details>
-  <summary> More about me</summary>
-<div align="left">
+<div>
+  <details>
+    <summary> More about me</summary>
+  <div align="left">
+   
  
-<!--  
-``` js
-const stebs = {
-    personal: {
-        fullName: 'Moacir Nunes dos Santos Junior',
-        birthDate: '1984-03-03',
-        pronouns: 'he' | 'his',
-        interests: ['music', 'art', 'games', 'language learning', 'anime'],
-        motivation: [
-            'Help improving diversity and inclusion',
-            'Making life easier and smarter through tech',
-        ],
-    },
-    technical: {
-        technologies: {
-            frontEnd: {
-                Javascript: ['Vanilla JS', 'React', 'Redux', 'Jest'],
-                HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['sass', 'styled-components', 'Bootstrap'],
-            },
-            backEnd: {
-                Javascript: ['Node.js', 'Express']
-            },
-            architecture: ['Single Page Applications', 'Domain Driven Design', 'Feature First'],
-        },
-    }
-}
-```
--->
- 
-  <a>
-    - 😏 sou um homem, pardo e tenho 38 anos<br>
-    - 👪 casado, pai de 2 garotos (10 e 19anos) e 2 gatos<br>
-    - 🎮 gosto de música, arte e games<br>
-    - ☀️ gosto de ver o sol nascer, da vista do mar e contemplar a natureza<br>
-    - 📷 sou fotografo e 🎥 produtor áudio visual, migrando para o setor de tecnologia 💻<br>
-    - 🎓 graduando em ciências da computação<br>
-    - 🏢 trabalho bem em grupo, sou proativo, organizado, criativo, comunicativo e comprometido<br>
-    - 📣 entusiasta de assuntos como tecnologia, proteção ao 🌱 meio ambiente, sustentabilidade, disseminação de conhecimento<br>
-  </a>
-  
+    Python
+    mnsjr = print('''
+                  Moacir Nunes dos Santos Junior
+                  sou homem, pardo, 38 anos
+                  casado, pai de 2 garotos (10 e 19anos) e 2 gatos
+                  gosto de musica, arte, games, anime
+                  gosto de ver o sol nascer, da vista do mar e contemplar a natureza
+                  sou fotografo e produtor áudio visual, migrando para o setor de tecnologia
+                  graduando em ciências da computação
+                  trabalho bem em grupo, sou proativo, organizado, criativo, comunicativo e comprometido
+                  entusiasta de assuntos como tecnologia, proteção ao meio ambiente, sustentabilidade, disseminação de conhecimento
+    ''')
+    
+    frontEnd = {Python: ['Django']
+                HTML: ['HTML5', 'Semantic HTML']
+                CSS: ['styled-components', 'Bootstrap']}
+    
+    backEnd = {Python: ['Rest API']}
+    
+    data_science = {Python: ['Pandas', 'Matplotlib']}
+    
+    web_automation = {Python: ['Selenium']}
+    
+    desktop_automation = {Python: ['pyautogui']}
+    
   </div>
-</details>
-
+  </details>
+</div>
 
 
 
@@ -71,7 +56,8 @@ const stebs = {
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="mnsJr-Python" height=50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="mnsJr-Pandas" height=50" width="50" src="https://github.com/mnsjr/mnsJr/blob/main/icons/Pandas.png">       
+  <img align="center" alt="mnsJr-Pandas" height=50" width="50" src="https://github.com/mnsjr/mnsJr/blob/main/icons/Pandas.png">
+  <img align="center" alt="mnsJr-Selenium" height=50" width="50" src="https://github.com/mnsjr/mnsJr/blob/main/icons/selenium.png" />
   <img align="center" alt="mnsJr-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="mnsJr-Photoshop" height="40" width="40" src="https://github.com/mnsjr/mnsJr/blob/main/icons/photoshop.png" />
   <img align="center" alt="mnsJr-Premiere Pro" height="40" width="40" src="https://github.com/mnsjr/mnsJr/blob/main/icons/premierepro.png" />
