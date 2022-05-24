@@ -1,6 +1,6 @@
 <div align="center"> 
   
-<a><img height="40%" width="40%" src="https://github.com/mnsjr/mnsJr/blob/main/gif/Hello.gif" target="_blank"></a>
+<a><img height="200" width="400" src="https://github.com/mnsjr/mnsJr/blob/main/gif/Hello.gif" target="_blank"></a>
 
 Sou fotografo e produtor áudio visual @ [Iluminar Fotografia e Filmes](https://www.iluminarfotografia.com.br/).
 
