@@ -24,17 +24,19 @@ Sou fotografo e produtor áudio visual @ [Iluminar Fotografia e Filmes](https://
                   entusiasta de assuntos como tecnologia, proteção ao meio ambiente, sustentabilidade, disseminação de conhecimento
     ''')
     
-    frontEnd = {Python: ['Django']
-                HTML: ['HTML5', 'Semantic HTML']
+    frontEnd = {Python: ['Flask', 'Django']
+                HTML: 'HTML'
                 CSS: ['styled-components', 'Bootstrap']}
     
-    backEnd = {Python: ['Rest API']}
+    backEnd = {Python: 'Rest API'}
     
     data_science = {Python: ['Pandas', 'Matplotlib']}
     
-    web_automation = {Python: ['Selenium']}
+    database = {SQL: 'MySQL'}
     
-    desktop_automation = {Python: ['pyautogui']}
+    web_automation = {Python: 'Selenium'}
+    
+    desktop_automation = {Python: 'pyautogui'}
     
   </div>
   </details>
@@ -56,9 +58,10 @@ Sou fotografo e produtor áudio visual @ [Iluminar Fotografia e Filmes](https://
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="mnsJr-Python" height=50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="mnsJr-Flask" height=50" width="80" src="https://github.com/mnsjr/mnsJr/blob/main/icons/flask%20white.png" />
   <img align="center" alt="mnsJr-Pandas" height=50" width="50" src="https://github.com/mnsjr/mnsJr/blob/main/icons/Pandas.png">
   <img align="center" alt="mnsJr-Selenium" height=50" width="50" src="https://github.com/mnsjr/mnsJr/blob/main/icons/selenium.png" />
-  <img align="center" alt="mnsJr-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="mnsJr-MySQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="mnsJr-Photoshop" height="40" width="40" src="https://github.com/mnsjr/mnsJr/blob/main/icons/photoshop.png" />
   <img align="center" alt="mnsJr-Premiere Pro" height="40" width="40" src="https://github.com/mnsjr/mnsJr/blob/main/icons/premierepro.png" />
 </div>
