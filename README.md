@@ -16,12 +16,12 @@ Sou fotografo e produtor áudio visual @ [Iluminar Fotografia e Filmes](https://
                   Moacir Nunes dos Santos Junior
                   sou homem, pardo, 38 anos
                   casado, pai de 2 garotos (10 e 19anos) e 2 gatos
-                  gosto de musica, arte, games, anime
-                  gosto de ver o sol nascer, da vista do mar e contemplar a natureza
+                  gosto de musica, arte, games, anime, contemplar a natureza
                   sou fotografo e produtor áudio visual, migrando para o setor de tecnologia
                   graduando em ciências da computação
                   trabalho bem em grupo, sou proativo, organizado, criativo, comunicativo e comprometido
-                  entusiasta de assuntos como tecnologia, proteção ao meio ambiente, sustentabilidade, disseminação de conhecimento
+                  entusiasta de assuntos como tecnologia, economia, geopolítica internacional, proteção ao meio ambiente, 
+                  sustentabilidade, disseminação de conhecimento
     ''')
     
     frontEnd = {Python: ['Flask', 'Django']
