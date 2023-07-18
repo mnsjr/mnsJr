@@ -22,11 +22,12 @@ Sou fotografo e produtor áudio visual @ [Iluminar Fotografia e Filmes](https://
                       sustentabilidade, disseminação de conhecimento"
           frontend: {
               Javascript: "ReactJs"
+              Python: "Flask"
               HTML: "HTML"
               CSS: "styled-components"
           },
           backEnd: {
-              NodeJs: "NestJs"
+              TypeScript: ["NodeJs", "NestJs"]
           },
           data_science: {
               Python: ['Pandas', 'Matplotlib']
@@ -65,6 +66,7 @@ Sou fotografo e produtor áudio visual @ [Iluminar Fotografia e Filmes](https://
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="mnsJr-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="mnsJr-Ts" height="40" width="40" src="https://github.com/mnsjr/mnsJr/blob/main/icons/typescript.png" />
   <img align="center" alt="mnsJr-NestJs" height="40" width="50" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />
   <img align="center" alt="mnsJr-SQLServer" height="50" width="50" background="#fff" src="https://github.com/mnsjr/mnsJr/blob/main/icons/sql-serverPNG.png" />
   <img align="center" alt="mnsJr-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
