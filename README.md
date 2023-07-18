@@ -9,32 +9,41 @@ Sou fotografo e produtor áudio visual @ [Iluminar Fotografia e Filmes](https://
   <details>
     <summary> More about me</summary>
   <div align="left">
-   
- 
-    Python
-    mnsjr = print('''
-                  Moacir Nunes dos Santos Junior
-                  sou homem, pardo, 38 anos
-                  casado, pai de 2 garotos (10 e 19anos) e 2 gatos
-                  gosto de musica, arte, games, anime, contemplar a natureza
-                  sou fotografo e produtor áudio visual, migrando para o setor de tecnologia
-                  graduando em ciências da computação
-                  trabalho bem em grupo, sou proativo, organizado, criativo, comunicativo e comprometido
-                  entusiasta de assuntos como tecnologia, economia, geopolítica internacional, proteção ao meio ambiente, 
-                  sustentabilidade, disseminação de conhecimento
-    ''')
+
+        { 
+          nome: "Moacir Nunes dos Santos Junior",
+          generoIdade: "sou homem, pardo, 38 anos",
+          familia: "casado, pai de 2 garotos (12 e 21anos) e 2 gatos",
+          hobbies: "gosto de musica, arte, games, anime, contemplar a natureza",
+          trabalho: "sou fotografo, produtor áudio visual, desenvolvedor",
+          escolaridade: "graduando em ciências da computação",
+          softSkills: "trabalho bem em grupo, sou proativo, organizado, criativo, comunicativo e comprometido",
+          interesses: "entusiasta de assuntos como tecnologia, economia, geopolítica internacional, proteção ao meio ambiente
+                      sustentabilidade, disseminação de conhecimento"
+          frontend: {
+              Javascript: "ReactJs"
+              HTML: "HTML"
+              CSS: "styled-components"
+          },
+          backEnd: {
+              NodeJs: "NestJs"
+          },
+          data_science: {
+              Python: ['Pandas', 'Matplotlib']
+          },
+          database: {
+            SQL: ["MySQL", "SqlServer"]
+          },
+          automation: {
+            Python: ["Pelenium", "Pyautogui"]
+          }
+        }
+        
+        
+        
+        
+        
     
-    frontEnd = {Javascript: "ReactJs"
-                HTML: "HTML"
-                CSS: ['styled-components']}
-    
-    backEnd = {NodeJs: "NestJs"}
-    
-    data_science = {Python: ['Pandas', 'Matplotlib']}
-    
-    database = {SQL: ["MySQL", "SqlServer"]}
-    
-    automation = {Python: ["Selenium", "pyautogui"]}
     
   </div>
   </details>
@@ -55,13 +64,11 @@ Sou fotografo e produtor áudio visual @ [Iluminar Fotografia e Filmes](https://
   </a>
   
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="mnsJr-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="mnsJr-NestJs" height="30" width="40" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />
-  <img align="center" alt="mnsJr-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-  <img align="center" alt="mnsJr-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="mnsJr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  
+  <img align="center" alt="mnsJr-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="mnsJr-NestJs" height="40" width="50" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />
+  <img align="center" alt="mnsJr-SQLServer" height="50" width="50" background="#fff" src="https://github.com/mnsjr/mnsJr/blob/main/icons/sql-serverPNG.png" />
+  <img align="center" alt="mnsJr-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="mnsJr-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="mnsJr-Photoshop" height="40" width="40" src="https://github.com/mnsjr/mnsJr/blob/main/icons/photoshop.png" />
   <img align="center" alt="mnsJr-Premiere Pro" height="40" width="40" src="https://github.com/mnsjr/mnsJr/blob/main/icons/premierepro.png" />
 </div>
@@ -73,12 +80,12 @@ Sou fotografo e produtor áudio visual @ [Iluminar Fotografia e Filmes](https://
   </a>
   
   <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="mnsJr-Python" height=55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="mnsJr-Flask" height=50" width="80" src="https://github.com/mnsjr/mnsJr/blob/main/icons/flask%20white.png" />
-  <img align="center" alt="mnsJr-Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img align="center" alt="mnsJr-Pandas" height=50" width="50" src="https://github.com/mnsjr/mnsJr/blob/main/icons/Pandas.png">
-  <img align="center" alt="mnsJr-Selenium" height=50" width="50" src="https://github.com/mnsjr/mnsJr/blob/main/icons/selenium.png" />
-  <img align="center" alt="mnsJr-MySQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="mnsJr-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="mnsJr-Flask" height="40" width="60" src="https://github.com/mnsjr/mnsJr/blob/main/icons/flask%20white.png" />
+  <img align="center" alt="mnsJr-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <img align="center" alt="mnsJr-Pandas" height="40" width="40" src="https://github.com/mnsjr/mnsJr/blob/main/icons/Pandas.png">
+  <img align="center" alt="mnsJr-Selenium" height="40" width="40" src="https://github.com/mnsjr/mnsJr/blob/main/icons/selenium.png" />
+  <img align="center" alt="mnsJr-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  
   <img align="center" alt="mnsJr-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="mnsJr-Illustrator" height="30" width="30" src="https://github.com/mnsjr/mnsJr/blob/main/icons/illustrador.png" />
