@@ -2,8 +2,7 @@
   
 <a><img height="200" width="400" src="https://github.com/mnsjr/mnsJr/blob/main/gif/Hello.gif" target="_blank"></a>
 
-Sou fotografo e produtor áudio visual @ [Iluminar Fotografia e Filmes](https://www.iluminarfotografia.com.br/).
-
+Sou Desenvolvedor Full Stack.
 
 <div>
   <details>
@@ -12,31 +11,31 @@ Sou fotografo e produtor áudio visual @ [Iluminar Fotografia e Filmes](https://
 
         { 
           nome: "Moacir Nunes dos Santos Junior",
-          generoIdade: "sou homem, pardo, 38 anos",
+          generoIdade: "sou homem, pardo, 39 anos",
           familia: "casado, pai de 2 garotos (12 e 21anos) e 2 gatos",
-          hobbies: "gosto de musica, arte, games, anime, contemplar a natureza",
-          trabalho: "sou fotografo, produtor áudio visual, desenvolvedor",
+          hobbies: "gosto de musica, arte, games, animes, contemplar a natureza",
+          trabalho: "sou fotografo, produtor áudio visual, desenvolvedor ful stack",
           escolaridade: "graduando em ciências da computação",
           softSkills: "trabalho bem em grupo, sou proativo, organizado, criativo, comunicativo e comprometido",
           interesses: "entusiasta de assuntos como tecnologia, economia, geopolítica internacional, proteção ao meio ambiente
                       sustentabilidade, disseminação de conhecimento"
           frontend: {
-              Javascript: "ReactJs"
-              Python: "Flask"
-              HTML: "HTML"
+              Javascript: "ReactJs",
+              HTML: "HTML",
               CSS: "styled-components"
           },
           backEnd: {
-              TypeScript: ["NodeJs", "NestJs"]
+              TypeScript: ["NodeJs", "NestJs"],
+              Python: ["Flask"]
           },
           data_science: {
-              Python: ['Pandas', 'Matplotlib']
+              Python: ['Pandas', Numpy, 'Matplotlib']
           },
           database: {
             SQL: ["MySQL", "SqlServer"]
           },
           automation: {
-            Python: ["Pelenium", "Pyautogui"]
+            Python: ["Selenium", "Pyautogui"]
           }
         }
         
