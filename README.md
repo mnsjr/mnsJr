@@ -22,17 +22,17 @@ Sou Desenvolvedor Full Stack.
           frontend: {
               Javascript: "ReactJs",
               HTML: "HTML",
-              CSS: "styled-components"
+              CSS: "CSS, styled-components"
           },
           backEnd: {
-              TypeScript: ["NodeJs", "NestJs"],
+              TypeScript: ["NodeJs", "NestJs", "GoLang"],
               Python: ["Flask"]
           },
           data_science: {
               Python: ['Pandas', Numpy, 'Matplotlib']
           },
           database: {
-            SQL: ["MySQL", "SqlServer"]
+            SQL: ["MySQL", "SqlServer", "MongoDB"]
           },
           automation: {
             Python: ["Selenium", "Pyautogui"]
