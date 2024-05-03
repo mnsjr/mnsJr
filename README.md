@@ -65,7 +65,10 @@ Sou Desenvolvedor Full Stack.
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="mnsJr-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="mnsJr-ReactJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="mnsJr-Ts" height="40" width="40" src="https://github.com/mnsjr/mnsJr/blob/main/icons/typescript.png" />
+  <img align="center" alt="mnsJr-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="mnsJr-GoLang" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
   <img align="center" alt="mnsJr-NestJs" height="40" width="50" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />
   <img align="center" alt="mnsJr-SQLServer" height="50" width="50" background="#fff" src="https://github.com/mnsjr/mnsJr/blob/main/icons/sql-serverPNG.png" />
   <img align="center" alt="mnsJr-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
@@ -81,9 +84,8 @@ Sou Desenvolvedor Full Stack.
   </a>
   
   <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="mnsJr-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="mnsJr-Flask" height="40" width="60" src="https://github.com/mnsjr/mnsJr/blob/main/icons/flask%20white.png" />
-  <img align="center" alt="mnsJr-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <img align="center" alt="mnsJr-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img align="center" alt="mnsJr-Pandas" height="40" width="40" src="https://github.com/mnsjr/mnsJr/blob/main/icons/Pandas.png">
   <img align="center" alt="mnsJr-Selenium" height="40" width="40" src="https://github.com/mnsjr/mnsJr/blob/main/icons/selenium.png" />
   <img align="center" alt="mnsJr-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
